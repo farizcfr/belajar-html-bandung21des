@@ -1,0 +1,32 @@
+body {
+    background-color: #fff;
+    margin: 40px 40px 40px 40px;
+}
+
+.jumbotron{
+    margin-top: 40px;
+    background-image: url(img/tes.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    
+    
+}
+
+.container{
+    background-color: gray;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #SSS;
+}
+
+.comment {
+    background-color: red;
+    padding: 20px;
+}
+
+footer{
+    background-color: midnightblue;
+    height: 100px;
+    color: aqua;
+    padding: 20px 20px;
+}
